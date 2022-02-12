@@ -20,6 +20,12 @@ const localeText = (locale: string): string => {
       return '🇬🇧 English'
     case 'zh-CN':
       return '🇨🇳 简体中文'
+    case 'zh-TW':
+      return '🇹🇼 繁体中文'
+    case 'zh-yue':
+      return '🇭🇰 粤语'
+    case 'ja':
+      return '🇯🇵 日本語'
     default:
       return '🇬🇧 English'
   }
