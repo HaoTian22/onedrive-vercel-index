@@ -94,7 +94,7 @@
   "Storing tokens": "正在儲存 token…",
   "Success! The API returned what we needed.": "成功！需要的 token 已被返回。",
   "The authorisation code extracted is:": "提取出的授權碼為：",
-  "The OAuth link for getting the authorisation code has been created. Click on the link above to get the <2>authorisation code</2>. Your browser willopen a new tab to Microsoft's account login page. After logging in and authenticating with your Microsoft account, you will be redirected to a blank page on localhost. Paste <6>the entire redirected URL</6> down below.": "創建出的這個 OAuth 連結是用來獲取授權碼的。點選上方連結以獲取所需的 <2>授權碼</2>。你的瀏覽器將在新的標籤頁打開 Microsoft 帳號登錄頁面。在登錄並驗證你的 Microsoft 帳號之後，你將被重定向到一個網域為 localhost 的空白頁面。請將<6>完整的重定向後的 URL</6> 整體複製粘貼到下方。",
+  "The OAuth link for getting the authorisation code has been created. Click on the link above to get the <2>authorisation code</2>. Your browser willopen a new tab to Microsoft's account login page. After logging in and authenticating with your Microsoft account, you will be redirected to a blank page on localhost. Paste <6>the entire redirected URL</6> down below.": "創建出的這個 OAuth 連結是用來獲取授權碼的。點選上方連結以獲取所需的 <2>授權碼</2>。你的瀏覽器將在新的標籤頁打開 Microsoft 帳號登錄頁面。在登錄並驗證你的 Microsoft 帳號之後，你將被重新導向到一個網域名稱為 localhost 的空白頁面。請將<6>完整的重新導向後的 URL</6> 整體複製粘貼到下方。",
   "These tokens are used to authenticate yourself into password protected folders, ": "這些金鑰是用來驗證你的身份以訪問金鑰保護下的資料夾的，",
   "These tokens may take a few seconds to populate after you click the button below. ": "當你點選下方按鈕之後，這些 tokens 可能需要幾秒鐘來生成出現。",
   "This route (the folder itself and the files inside) is password protected. ": "此路由（此資料夾和其中的檔案）是受金鑰保護的。",
